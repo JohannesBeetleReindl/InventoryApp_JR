@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- Name for the application [CHAR LIMIT=12] -->
+    <string name="app_name">Books Inventory</string>
+
+    <!-- Label for overflow menu option that inserts fake pet data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all pet data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Products</string>
+
+    <!-- Title for the activity to add a new pet [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_product">Add a new Product</string>
+
+    <!-- Label for editor menu option to save pet and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current pet [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for gender information in the editor [CHAR LIMIT=30] -->
+    <string name="category_supplier">Supplier</string>
+
+    <!-- Label for measurement information in the editor [CHAR LIMIT=30] -->
+    <string name="category_supplierNumber">Suppliers Phone</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_name">Book Title</string>
+
+    <!-- Text hint for breed field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_price">Price</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_quantity">Quantity</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_suppliers_number">Phone Number</string>
+
+
+
+    <!-- Label for dropdown menu option if the books supplier is unknown [CHAR LIMIT=20] -->
+    <string name="supplier_unknown">Unknown</string>
+
+    <!-- Label for dropdown menu option if the supplier is Penguin [CHAR LIMIT=20] -->
+    <string name="penguin">Penguin Random House</string>
+
+    <!-- Label for dropdown menu option if the supplier is Simon&Schuster [CHAR LIMIT=20] -->
+    <string name="harper_collins">HarperCollins</string>
+
+    <!-- Label for dropdown menu option if the supplier is HarperCollns [CHAR LIMIT=20] -->
+    <string name="simon_schuster">Simon and Schuster</string>
+
+    <!-- Label for dropdown menu option if the supplier is Hachette [CHAR LIMIT=20] -->
+    <string name="hachette">Hachette Book Group</string>
+
+    <!-- Label for dropdown menu option if the supplier is Macmillan [CHAR LIMIT=20] -->
+    <string name="macmillan">Macmillan</string>
+</resources>

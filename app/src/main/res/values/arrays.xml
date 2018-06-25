@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_supplier_options">
+        <item>@string/penguin</item>
+        <item>@string/harper_collins</item>
+        <item>@string/simon_schuster</item>
+        <item>@string/hachette</item>
+        <item>@string/macmillan</item>
+
+    </string-array>
+</resources>
